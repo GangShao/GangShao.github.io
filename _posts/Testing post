@@ -1,0 +1,11 @@
+---
+title: 'This is a test about the figure'
+date: 2021-02-24
+permalink: /posts/2021/02/blog-figure-1/
+tags:
+  - ILS595
+  - ArcGIS
+
+---
+This is the image that needed for lab6
+<img src='/images/RasterLayer2Raster2.png'>
